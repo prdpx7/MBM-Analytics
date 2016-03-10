@@ -1,7 +1,7 @@
 # MBM-Analytics
 College Result Analysis
 --------
-**Extracting Yearend Semester Result Using PhantomJS and Selenium Webdriver in Python2.7**
+**Extracting Yearend Semester Result of Using PhantomJS and Selenium Webdriver in Python2.7**
 * Extraction of Result according to the Student's RollNo will include Total Marks in Previous Semester as well as year-end Semester
   and Marks in each Theory Exam as well Laboratory/Practical Exam.
 * Displaying Result Details of Each Student for given range in RollNo.
