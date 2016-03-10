@@ -14,5 +14,16 @@ College Result Analysis
 * [Selenium] (http://selenium-python.readthedocs.org/)
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [PhantomJS] (http://phantomjs.org/) 
+**Installation**
+* `Step 0`:
+    * install python-developer package if you're on Linux
+* `Step 1:`
+    * [pip(install me first)](https://pypi.python.org/pypi/pip)
+*  `Step 2:`
+     * pip install selenium
+     * pip install bs4
+* `Step 3:`
+    * [install matplotlib](http://matplotlib.org/users/installing.html)
+         
 **Pull this Repository with**
 ` git clone https://github.com/zuck007/MBM-Analytics.git `
