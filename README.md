@@ -14,5 +14,6 @@ College Result Analysis
 * [Selenium] (http://selenium-python.readthedocs.org/)
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [PhantomJS] (http://phantomjs.org/) 
+
 **Pull this Repository with**
-` git clone https://github.com/zuck007/MBM-Analytics.git `
+* ` git clone https://github.com/zuck007/MBM-Analytics.git `
