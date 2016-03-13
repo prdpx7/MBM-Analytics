@@ -8,6 +8,7 @@ College Result Analysis
 * First graph will compare Total marks of 3rd Sem(prev sem) with 4th Sem(year-end sem) from RollNo.1 to 32 ( all students who are enrolled in both exams ).
 * Second graph will compare Total Marks obtained in Theory Exams vs Lab/Practical Exams of year-end Semester(4thSem,2015).
 * Pie Chart will show avg-marks among all subjects(Theory and Practicals) of the year-end Semester(4thSem,2015).
+    [![asciicast](https://asciinema.org/a/aofoemh6caq9jl5mrsvxbv6jf.png)](https://asciinema.org/a/aofoemh6caq9jl5mrsvxbv6jf)
 
 **Resources used in this Project**
 * [Matplotlib](http://matplotlib.org/)

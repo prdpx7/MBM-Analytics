@@ -165,6 +165,6 @@ def main(args):
     driver.close()    
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('-r','--range',nargs='+',type=int,choices=xrange(1,33),help='display result between given roll numbers')
+    parser.add_argument('-r','--range',nargs='+',type=int,help='display result between given range of roll numbers')
     args = parser.parse_args()
     main(args)
