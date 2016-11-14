@@ -147,7 +147,7 @@ def mean_result():
         #if title !='3rdSemTotal' or title != '4thSemTotal':
         print title,round(avgresult[title]/(1.0*len(finaldata.keys())),2)
 def main(args):
-    driver.get('http://182.71.46.50/result.aspx')
+    driver.get('http://182.71.46.50:8000/result.aspx')
     #exam/course name i.e B.E,M.E etc
     myid=Select(driver.find_element_by_id('ChildContent_ddlExamName'))
     myid.select_by_value('B.E.')
